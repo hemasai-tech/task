@@ -1,0 +1,33 @@
+
+.rhombus {
+  background: #000000;
+  margin: 100px auto;
+  border-top: 25px solid #ee8610;
+  border-bottom: 25px solid #0fe0e0;
+  border-right: 25px solid #bfc5bf;
+  border-left: 25px solid #75f175;
+   transform: rotate(45deg);
+}
+
+.step1 {
+  width: 200px;
+  height: 200px;
+}
+
+.heading {
+  font-size: 18px;
+  margin-top: 70px   ;
+  margin-left: 35px;
+  transform: rotate(-45deg);
+  color: white;
+}
+.text{
+  color: white;
+  font-size: 10px;
+  margin-left: 25px;
+  text-align: center;
+  transform: rotate(-45deg);
+}
+.span-class{
+  color: red;
+}
